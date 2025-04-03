@@ -186,6 +186,8 @@ for (int i = 5; i >= 0; i--) {
 - [Java Control Flow (Oracle Docs)](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/flow.html)  
 - [Break and Continue Statements](https://www.geeksforgeeks.org/java-break-continue/)  
 - [Nested Loops in Java](https://www.programiz.com/java-programming/nested-loop)
+- [Lesson Video Recording](https://us06web.zoom.us/rec/share/b4hSe_i4PCqJSrSQGdb1Ckx1kvKTwAUpmvjiDBLbmpRk-8YsDXZUd0sSz1MigaGo.TPhD3PwIBpX53oCm?startTime=1743150398000)
+- [Leeson Live Coding](_to be added_)
 
 ---
 
